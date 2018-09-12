@@ -1,2 +1,3 @@
-# join
+# Join
 Join the JSDevX community.
+
