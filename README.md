@@ -7,4 +7,4 @@ We use MEAN stack to build our applications.\
 Join us as an Intern/Developer/Reviewer/UX Designer.
 
 **Ashish Patel** \
-MEAN Stack/Javascript Developer
+MEAN Stack/Full Stack Web Developer
